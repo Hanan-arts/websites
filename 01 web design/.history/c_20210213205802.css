@@ -1,0 +1,13 @@
+.nav-wrapper{
+    display:flex;
+    justify-content: space-between;
+    padding: 40px;
+    background-color: rgb(17, 114, 114);
+}
+.left-side{
+    display: flex;
+}
+
+
+
+
