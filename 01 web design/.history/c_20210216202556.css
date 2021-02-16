@@ -40,7 +40,7 @@
 gradient (rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img: 1png;)
 background position:center ;
 background size:cover ;
-background: no-repeat 
+
 }
 body{
     background: no-repeat url("images.png");
