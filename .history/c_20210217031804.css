@@ -2,17 +2,14 @@
     margin: 0;
     padding: 0;
 }
-.wrapper{
+{
 background-color: cadetblue;
     background-size: cover;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
 }
-body{
-    background-color: darkkhaki;
-}
-.navbar{
-    position: fixe;
+
+.nav-wrapper{
     display:flex;
     justify-content: space-between;
     padding: 40px;

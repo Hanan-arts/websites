@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-color: khaki;
+}
+.wrapper{
+background-color: cadetblue;
+    background-size: cover;
+    height: 100hv;
+}
+.navbar{
+   background-color: rgb(24, 73, 73);
+    justify-content: space-between;
+height: 100;
+    float: left;
+
+}
+.navbar ul li{
+    background-color: rgb(83, 102, 102);
+    text-decoration: none;
+float: left;}
+
+
+
+
+
+

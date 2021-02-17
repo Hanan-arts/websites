@@ -8,11 +8,8 @@ background-color: cadetblue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
 }
-body{
-    background-color: darkkhaki;
-}
+
 .navbar{
-    position: fixe;
     display:flex;
     justify-content: space-between;
     padding: 40px;

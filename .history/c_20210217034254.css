@@ -2,30 +2,37 @@
     margin: 0;
     padding: 0;
 }
+body{
+   background-color: khaki;
+}
 .wrapper{
 background-color: cadetblue;
     background-size: cover;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align: left;
-}
-body{
-    background-color: darkkhaki;
+    height: 100hv;
 }
 .navbar{
-    position: fixe;
+   background-color: rgb(24, 73, 73);
     display:flex;
     justify-content: space-between;
     padding: 40px;
-    background-color: rgb(4, 37, 37);
+    float: left;
+
 }
-.left-side{
-    display: flex;
+.navbar ul{
+    background-color: rgb(56, 150, 150);
+     display:flex;
+     justify-content: space-between;
+     padding: 40px;
+     float: left;
+      left-side
+   
 }
-.nav-wrapper > .left-side > div {
-    margin-right: 35px;
+.nav-wrapper{  
+     margin-right: 35px;
     font-size: 1.5em;
-    text-transform: uppercase;
-}
+    text-transform: uppercase;}
+ 
+
 .nav-link-wrapper{
     height: 23px;
     border-bottom: 1.2px solid transparent;

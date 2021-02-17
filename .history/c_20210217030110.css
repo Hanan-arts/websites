@@ -1,18 +1,5 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-.wrapper{
-background-color: cadetblue;
-    background-size: cover;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align: left;
-}
-body{
-    background-color: darkkhaki;
-}
-.navbar{
-    position: fixe;
+
+.nav-wrapper{
     display:flex;
     justify-content: space-between;
     padding: 40px;
@@ -42,15 +29,25 @@ body{
 .nav-link-wrapper a:hover{
     color: gray;
 }
-
+<div class="section"></div>
+<h1> <b>BOOKS WORLD<b><h1>
+<video
 
 
 .container{
     width:100%;
     height:100vh;
-   background-position: center;
-   background-size: cover;
-
+    background: image:linear;
+gradient (rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img: 1png;)
+background position:left ;
+background size:cover ;
+background: no-repeat ;s
+}
+body{
+    background: no-repeat url("images.png");
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
 }
 
 
